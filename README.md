@@ -45,11 +45,12 @@ Enjoy!
 - [Movie Budgets](https://www.the-numbers.com/movie/budgets)
 - [Youtube API](https://developers.google.com/youtube/]) 
 
-## Authors 
+## Hot-Fix
+Test Data Accuracy improve from 65% to 83%
+
+ ## Authors 
 Nick Setnik, Ying Li, Pamela Zhao, Neal Zheng
 
 
 
-## Test Data Accuracy improve from 65% to 83%
 
- 
